@@ -1,0 +1,48 @@
+.img{
+margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:400px ;
+}
+.box{
+    width: 150px;
+    height: 50px;
+    background-color: palevioletred;
+}
+
+.box1{
+    width: 150px;
+    height: 50px;
+    background-color: palevioletred;
+}
+
+
+.main{
+    width: 400px;
+    height: max-content;
+}
+
+.p{
+    text-align: center;
+}
+
+.para{
+    text-align: center;
+}
+
+.size{
+    text-align: center;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.large{
+    display: flex;
+   flex-direction: row;
+ justify-content: space-evenly;
+}
